@@ -1,0 +1,9 @@
+[general]
+name=PluginJuntarTocamIguais
+description=Este puglin irá verificar os polígonos que possuem os mesmos atributos e se tocam, então irá unir, dissolver e realizar multipartes.
+version=1.0
+qgisMinimumVersion=3.0
+author=Jonathan Cuellar
+email=j.silvacuellar@gmail.com
+repository=https://github.com/CuellarJonathan/PluginJuntarTocamIguais
+icon=icon.png
